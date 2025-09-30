@@ -1,0 +1,12 @@
+{
+  "name": "n8n-proxy",
+  "version": "1.0.0",
+  "description": "Vercel proxy untuk forward Telegram webhook ke n8n",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+  
+}
